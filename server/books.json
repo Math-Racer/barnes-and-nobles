@@ -1,0 +1,524 @@
+[
+    
+    {
+        "title": "Anatomy Demystified: A Comprehensive Guide",
+        "price": 320,
+        "author": "Dr. A. Verma",
+        "publisher": "MediLearn",
+        "category": "Medical Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Pathophysiology and Medical Diagnostics",
+        "price": 410,
+        "author": "Dr. S. Nair",
+        "publisher": "HealthHouse",
+        "category": "Medical Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Clinical Procedures in Medicine",
+        "price": 395,
+        "author": "Dr. L. Gupta",
+        "publisher": "MedPress",
+        "category": "Medical Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Pharmacology Essentials",
+        "price": 280,
+        "author": "Dr. R. Sharma",
+        "publisher": "CureBooks",
+        "category": "Medical Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Medical Ethics in Practice",
+        "price": 360,
+        "author": "Dr. M. Rao",
+        "publisher": "EthicMed",
+        "category": "Medical Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Fundamentals of Civil Engineering",
+        "price": 450,
+        "author": "Eng. P. Reddy",
+        "publisher": "BuildTech",
+        "category": "Engineering Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Electrical Engineering Principles",
+        "price": 480,
+        "author": "Eng. S. Kumar",
+        "publisher": "ElectroPub",
+        "category": "Engineering Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Modern Mechanical Design",
+        "price": 510,
+        "author": "Eng. J. Singh",
+        "publisher": "MechWorld",
+        "category": "Engineering Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Introduction to Structural Analysis",
+        "price": 430,
+        "author": "Eng. D. Patel",
+        "publisher": "StructBooks",
+        "category": "Engineering Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Thermodynamics and Fluid Mechanics",
+        "price": 490,
+        "author": "Eng. R. Verma",
+        "publisher": "EngiPress",
+        "category": "Engineering Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "JavaScript: The Good Parts",
+        "price": 354,
+        "author": "Dr. R.S. Aggarval",
+        "publisher": "S Chand And Company Limited",
+        "category": "Computer Science Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Land of Lisp: Learn to Program in Lisp, One Game at a Time!",
+        "price": 698,
+        "author": "Dr. R.S. Aggarval",
+        "publisher": "S Chand And Company Limited",
+        "category": "Computer Science Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Database System Concepts",
+        "price": 882,
+        "author": "Dr. R.S. Aggarval",
+        "publisher": "S Chand And Company Limited",
+        "category": "Computer Science Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "The Tao of Programming",
+        "price": 594,
+        "author": "Dr. R.S. Aggarval",
+        "publisher": "S Chand And Company Limited",
+        "category": "Computer Science Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Computer Networks and Internets",
+        "price": 374,
+        "author": "Dr. R.S. Aggarval",
+        "publisher": "S Chand And Company Limited",
+        "category": "Computer Science Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Linux System Programming",
+        "price": 351,
+        "author": "Dr. R.S. Aggarval",
+        "publisher": "S Chand And Company Limited",
+        "category": "Computer Science Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Constitutional Law: Theory and Practice",
+        "price": 410,
+        "author": "Prof. N. Iyer",
+        "publisher": "LawEdge",
+        "category": "Law Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "International Business Law Essentials",
+        "price": 435,
+        "author": "Adv. K. Menon",
+        "publisher": "GlobalLaw",
+        "category": "Law Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Corporate Governance and Compliance",
+        "price": 470,
+        "author": "Adv. A. Desai",
+        "publisher": "LegalWorks",
+        "category": "Law Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Cyber Law and Data Protection",
+        "price": 405,
+        "author": "Adv. S. Roy",
+        "publisher": "CyberLaw Publishers",
+        "category": "Law Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Legal Reasoning: Cases and Commentary",
+        "price": 440,
+        "author": "Prof. M. Banerjee",
+        "publisher": "JurisPress",
+        "category": "Law Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "UPSC Preliminary Exam Guide",
+        "price": 380,
+        "author": "Exam Strategist R. Sen",
+        "publisher": "UPSC Prep House",
+        "category": "UPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "General Studies for UPSC Mains",
+        "price": 420,
+        "author": "Dr. P. Kapoor",
+        "publisher": "CivilsEdge",
+        "category": "UPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "UPSC Current Affairs Overview",
+        "price": 350,
+        "author": "Analyst R. Choudhury",
+        "publisher": "CurrentEdge",
+        "category": "UPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Mastering UPSC Essay Writing",
+        "price": 390,
+        "author": "Faculty S. Mehta",
+        "publisher": "EssayPro",
+        "category": "UPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "UPSC Interview Preparation Strategies",
+        "price": 410,
+        "author": "Coach D. Reddy",
+        "publisher": "InterviewAce",
+        "category": "UPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Mathematics NCERT: Class XI",
+        "price": 220,
+        "author": "Mr. R. Patel",
+        "publisher": "EduMatters",
+        "category": "NCERT Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Science NCERT: Class X",
+        "price": 230,
+        "author": "Mrs. L. Desai",
+        "publisher": "LearnWell",
+        "category": "NCERT Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Social Science NCERT: Class IX",
+        "price": 210,
+        "author": "Mr. K. Gupta",
+        "publisher": "Scholarly Press",
+        "category": "NCERT Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "English NCERT: Comprehensive Reader",
+        "price": 205,
+        "author": "Ms. A. Fernandes",
+        "publisher": "ReadRight",
+        "category": "NCERT Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "History NCERT: Ancient Civilizations",
+        "price": 225,
+        "author": "Dr. V. Ramesh",
+        "publisher": "TimeLine Publishers",
+        "category": "NCERT Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "TNPSC General Studies Sample Paper",
+        "price": 265,
+        "author": "Dr. R. Iyer",
+        "publisher": "TNPSC Hub",
+        "category": "TNPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Current Affairs for TNPSC Exams",
+        "price": 250,
+        "author": "M. Kumar",
+        "publisher": "StateInsights",
+        "category": "TNPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "TNPSC Aptitude and Reasoning",
+        "price": 275,
+        "author": "A. Rajan",
+        "publisher": "PrepMasters",
+        "category": "TNPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Tamil Nadu Local Administration",
+        "price": 290,
+        "author": "S. Raghavan",
+        "publisher": "StateGuide",
+        "category": "TNPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "TNPSC Previous Years' Questions",
+        "price": 310,
+        "author": "V. Sundaram",
+        "publisher": "ExamVault",
+        "category": "TNPSC Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Tamil Nadu Geography Textbook",
+        "price": 330,
+        "author": "Dr. K. Murugan",
+        "publisher": "StateText",
+        "category": "Tamil Nadu Textbooks",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Tamil Nadu History and Civics",
+        "price": 360,
+        "author": "Prof. L. Narayan",
+        "publisher": "HeritagePub",
+        "category": "Tamil Nadu Textbooks",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Tamil Literature: Classics and Criticism",
+        "price": 340,
+        "author": "Dr. M. Subramaniam",
+        "publisher": "Literature House",
+        "category": "Tamil Nadu Textbooks",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Mathematics: Tamil Nadu Edition",
+        "price": 315,
+        "author": "S. Ramasamy",
+        "publisher": "EduTamil",
+        "category": "Tamil Nadu Textbooks",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Science Curriculum of Tamil Nadu Schools",
+        "price": 395,
+        "author": "Dr. V. Parthasarathy",
+        "publisher": "StateLearn",
+        "category": "Tamil Nadu Textbooks",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Digital Transformation: An E-Book Guide",
+        "price": 280,
+        "author": "E. Innovator",
+        "publisher": "eKnowledge",
+        "category": "E-Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Virtual Reality: Concepts and Applications",
+        "price": 300,
+        "author": "Tech Guru",
+        "publisher": "NextGen eBooks",
+        "category": "E-Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "The Future of Work: An E-Book Analysis",
+        "price": 265,
+        "author": "F. Strategist",
+        "publisher": "Digital Press",
+        "category": "E-Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "E-Commerce Strategies for the Digital Age",
+        "price": 295,
+        "author": "M. Entrepreneur",
+        "publisher": "eCommerce Hub",
+        "category": "E-Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Understanding Blockchain Technology",
+        "price": 310,
+        "author": "Crypto Analyst",
+        "publisher": "BlockPress",
+        "category": "E-Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Advanced Research in AI",
+        "price": 150,
+        "author": "Dr. I. Bose",
+        "publisher": "AI Journal",
+        "category": "E-Journals",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Journal of Modern Physics",
+        "price": 160,
+        "author": "Prof. D. Banerjee",
+        "publisher": "Physics Today",
+        "category": "E-Journals",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Contemporary Economics Review",
+        "price": 155,
+        "author": "Dr. F. Das",
+        "publisher": "EconInsights",
+        "category": "E-Journals",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Journal of Biological Sciences",
+        "price": 165,
+        "author": "Dr. R. Varma",
+        "publisher": "BioVision",
+        "category": "E-Journals",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Innovative Engineering Journal",
+        "price": 170,
+        "author": "Eng. N. Iyer",
+        "publisher": "Innovatech",
+        "category": "E-Journals",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "World Encyclopedia of History",
+        "price": 120,
+        "author": "Multiple Authors",
+        "publisher": "Global Library",
+        "category": "Library Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "The Great Literary Classics",
+        "price": 135,
+        "author": "Various",
+        "publisher": "Classic Reads",
+        "category": "Library Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Global Art and Culture",
+        "price": 145,
+        "author": "Art Historian",
+        "publisher": "CulturePress",
+        "category": "Library Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "A Comprehensive Atlas of the World",
+        "price": 160,
+        "author": "Carto Graphics",
+        "publisher": "Atlas Publishers",
+        "category": "Library Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "Fundamentals of Sports Science",
+        "price": 210,
+        "author": "Coach R. Mathew",
+        "publisher": "SportsWorld",
+        "category": "Sports Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Champion's Playbook: Strategies in Sports",
+        "price": 225,
+        "author": "Expert J. Thomas",
+        "publisher": "WinningEdge",
+        "category": "Sports Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "The History of the Olympic Games",
+        "price": 235,
+        "author": "Historian L. Evans",
+        "publisher": "Olympic Press",
+        "category": "Sports Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    {
+        "title": "Training Techniques for Athletes",
+        "price": 205,
+        "author": "Coach M. Daniels",
+        "publisher": "AthleteWorks",
+        "category": "Sports Books",
+        "isbn": "978-0-00-000000-0"
+    },
+    
+    {
+        "title": "I Wonder How",
+        "price": 2,
+        "author": "Jane Doe",
+        "publisher": "Wonder Books",
+        "category": "Other Collections",
+        "isbn": "978-0-123456-001",
+        "thumbnail": "thumbnails/i_wonder_how.jpg"
+    },
+    {
+        "title": "Basic Methods in Microscopy",
+        "price": 1,
+        "author": "John Smith",
+        "publisher": "Science Press",
+        "category": "Other Collections",
+        "isbn": "978-0-123456-002",
+        "thumbnail": "thumbnails/basic_methods_in_microscopy.jpg"
+    },
+    {
+        "title": "Pearl Word Search",
+        "price": 1,
+        "author": "Emily Johnson",
+        "publisher": "Puzzle House",
+        "category": "Other Collections",
+        "isbn": "978-0-123456-003",
+        "thumbnail": "thumbnails/pearl_word_search.jpg"
+    },
+    {
+        "title": "How to Paint and Draw",
+        "price": 5,
+        "author": "Michael Brown",
+        "publisher": "Art Books",
+        "category": "Other Collections",
+        "isbn": "978-0-123456-004",
+        "thumbnail": "thumbnails/how_to_paint_draw.jpg"
+    }
+    
+]
