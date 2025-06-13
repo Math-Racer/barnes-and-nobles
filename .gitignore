@@ -6,3 +6,4 @@
 /server/__pycache__/
 /client/node_modules/
 /client/build/
+/server-go/.env
